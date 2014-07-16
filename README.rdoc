@@ -1,1 +1,2 @@
+Please rename the folder's name from 'blog2' to 'blog'
 http://railscasts.com/episodes/241-simple-omniauth-revised
